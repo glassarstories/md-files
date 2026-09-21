@@ -40,6 +40,7 @@
 | Shopify ↔ Google & YouTube app | | |
 | Google Tag Manager | | |
 | Call tracking | | |
+| Windsor.ai (Google Ads: `978-397-5742`, Meta Ads: `Butterflarium`) | Підключено (21.09.2026) | Дає прямий доступ до реальних даних кампаній для аналізу |
 
 ## Доступи
 
