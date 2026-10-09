@@ -17,6 +17,6 @@
 
 ## Дані акаунта (заповнити)
 
-- Відправник (From): [ім'я] / [email]
-- Домен відправки: [ ]
-- Інтеграція з Shopify: [підключено / ні]
+- Відправник (From): Butterflarium / info@butterflarium.com
+- Домен: butterflarium.com. Брендований домен відправки в Klaviyo налаштовується як піддомен, напр. `send.butterflarium.com` (див. `setup-help.md`)
+- Інтеграція з Shopify: підключено ✅

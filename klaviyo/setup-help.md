@@ -8,10 +8,12 @@
 
 | Що | Статус |
 |---|---|
-| Акаунт Klaviyo створено | ⬜ |
-| Підключено Shopify (app Klaviyo + app embed у темі) | ⬜ |
-| Домен відправки й DNS (SPF / DKIM / DMARC) | ⬜ |
-| Відправник (From, reply-to) і адреса у футері | ⬜ |
+| Акаунт Klaviyo створено | ✅ |
+| Підключено Shopify | ✅ |
+| App embed Klaviyo увімкнено в темі Shopify (для трекінгу переглядів і кошика) | ⬜ перевірити |
+| Брендований домен відправки (піддомен butterflarium.com) + DNS (SPF / DKIM / DMARC) | ⬜ |
+| Відправник: Butterflarium / info@butterflarium.com | ✅ |
+| Reply-to і фізична адреса у футері | ⬜ |
 | Шаблон листа з логотипом і кольорами | ⬜ |
 | Форма підписки (popup) | ⬜ |
 | Флоу запущено (див. [`funnel.md`](funnel.md)) | ⬜ |
